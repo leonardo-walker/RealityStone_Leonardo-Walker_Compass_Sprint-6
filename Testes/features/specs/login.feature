@@ -1,4 +1,5 @@
 #language: pt
+@allTests
 @Login
 Funcionalidade: Login de usuário
     Como usuário do e-commerce Front - ServeRest

@@ -1,4 +1,5 @@
 #language: pt
+@allTests
 @CadastroADM
 Funcionalidade: Cadastro de administrador
     Como administrador do e-commerce Front - ServeRest

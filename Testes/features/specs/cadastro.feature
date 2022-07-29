@@ -1,4 +1,5 @@
 #language: pt
+@allTests
 @Cadastro
 Funcionalidade: Cadastro de usuário
     Como usuário do e-commerce Front - ServeRest
